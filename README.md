@@ -1,4 +1,4 @@
-This work is done during Spring 2022 in PHY 321: Classical Mechanics at MSU with the awesome Professor Moten Hjorth-Jensen at Michigan State University.
+This work is done during Spring 2022 in PHY 321: Classical Mechanics at MSU with the awesome Professor Moten Hjorth-Jensen at Michigan State University. Midterm questions are intentionally hidden.
 The 3D Solar System Model serves as one question in the second midterm of the course.
 The code was written entirely by myself.
 Below is a quick look at the final result.
