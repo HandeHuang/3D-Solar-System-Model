@@ -1,7 +1,10 @@
-This work is done during Spring 2022 in PHY 321: Classical Mechanics at MSU with the awesome Professor Moten Hjorth-Jensen. Used real-time date (real-time back in 2022) from NASA.
-The 3D Solar System Model serves as one question in the second midterm of the course; midterm questions are intentionally hidden.
-The code was written entirely by myself.
-Below is a quick look at the final result.
+This work is done during Spring 2022 in PHY 321: Classical Mechanics at MSU with the awesome Professor Moten Hjorth-Jensen. Used real-time date (real-time back in 2022) from NASA. 
+
+The 3D Solar System Model serves as one question in the second midterm of the course; midterm questions are intentionally hidden. 
+
+The code was written entirely by myself. 
+
+Below is a quick look at the final result. 
 
 ![image](https://github.com/user-attachments/assets/ae34b4ed-6149-4b51-bd59-a55cf6d4fd13)
 
