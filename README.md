@@ -1,6 +1,6 @@
 A Python-based physics simulation of the solar system in 3D. Used real-time data (real-time back in 2022) from NASA. 
 
-This work was done during Spring 2022 in PHY 321: Classical Mechanics at MSU with the awesome Professor Moten Hjorth-Jensen. 
+This work was done during Spring 2022 in PHY 321: Classical Mechanics at MSU with the awesome Professor Morten Hjorth-Jensen. 
 
 The 3D Solar System Model serves as one question in the second midterm of the course; midterm questions are intentionally hidden. 
 
